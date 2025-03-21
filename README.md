@@ -12,6 +12,8 @@
   </a>
 </p> 
 
+<img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
+
 ## 👤 About Me  
 - 🕵️‍♂️ Ethical Hacker in the making  
 - 🔐 Cybersecurity enthusiast  
