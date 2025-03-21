@@ -17,6 +17,12 @@
 ![Visitors](https://img.shields.io/badge/Visitors-100-purple?logo=github&logoColor=white)
 
 Other content here...
+# My GitHub Profile
+
+![Visitors](https://img.shields.io/badge/Visitors-100-purple?logo=eye&logoColor=white&style=for-the-badge)
+
+Other content here...
+
 
 <img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
