@@ -13,20 +13,25 @@
 </p>
 
 <details open>
+  
   <summary>👤 About Me</summary>
+  
   - 🕵️‍♂️ Ethical Hacker in the making  
   - 🔐 Cybersecurity enthusiast  
   - 🧩 Data broker researcher  
   - 💻 Python, Networking, OSINT, Automation  
   - 🎯 Focus: learn, exploit, protect, repeat  
-  - ⚡ Constantly leveling up — stealth mode active  
+  - ⚡ Constantly leveling up — stealth mode active
+    
 </details>
 
 <details open>
   <summary>🚀 GitHub Stats</summary>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)  
+  
 </details>
 
 <details>
