@@ -4,12 +4,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
   </a>
   <a href="https://github.com/zer0w3b?tab=repositories&sort=stargazers">
-    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zer0w3b?color=2ebd4f&labelColor=249c3a&style=for-the-badge&logo=star&label=STARS"/>
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zer0w3b?color=1e7a33&labelColor=166026&style=for-the-badge&logo=star&label=STARS"/>
   </a>
   <a href="https://github.com/zer0w3b">
     <img alt="visitors" title="GitHub profile views" src="http://zer0w3b.42web.io/index.php"/>
   </a>
 </p>
+
 
 
 ## 👤 About Me  
