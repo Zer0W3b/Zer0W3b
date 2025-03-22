@@ -12,38 +12,39 @@
   </a>
 </p>
 
-## Table of Contents
-- [👤 About Me](#about-me)
-- [🚀 GitHub Stats](#github-stats)
-- [🔧 Skills](#skills)
-- [🔥 Featured Projects](#featured-projects)
-- [📫 How to Reach Me](#how-to-reach-me)
+<details open>
+  <summary>👤 About Me</summary>
+  - 🕵️‍♂️ Ethical Hacker in the making  
+  - 🔐 Cybersecurity enthusiast  
+  - 🧩 Data broker researcher  
+  - 💻 Python, Networking, OSINT, Automation  
+  - 🎯 Focus: learn, exploit, protect, repeat  
+  - ⚡ Constantly leveling up — stealth mode active  
+</details>
 
-## 👤 About Me  
-- 🕵️‍♂️ Ethical Hacker in the making  
-- 🔐 Cybersecurity enthusiast  
-- 🧩 Data broker researcher  
-- 💻 Python, Networking, OSINT, Automation  
-- 🎯 Focus: learn, exploit, protect, repeat  
-- ⚡ Constantly leveling up — stealth mode active  
+<details open>
+  <summary>🚀 GitHub Stats</summary>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)  
+</details>
 
-## 🚀 GitHub Stats  
+<details>
+  <summary>🔧 Skills</summary>
+  - Python  
+  - JavaScript  
+  - Linux  
+  - Docker  
+  - Kubernetes  
+  - Git
+</details>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
+<details>
+  <summary>🔥 Featured Projects</summary>
+  - Currently, no projects are being worked on.
+</details>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)  
-
-## 🔧 Skills
-- Python
-- JavaScript
-- Linux
-- Docker
-- Kubernetes
-- Git
-
-## 🔥 Featured Projects
-- Currently, no projects are being worked on.
-
-## 📫 How to Reach Me
-- Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
+<details>
+  <summary>📫 How to Reach Me</summary>
+  - Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
+</details>
