@@ -1,15 +1,16 @@
 # Hi, I'm Zer0W3b 👾 
 <p align="center">
   <a href="https://github.com/zer0w3b?tab=followers">
-    <img alt="Follow" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
   </a>
-  <a href="https://github.com/zer0w3b?tab=stars">
-    <img alt="Stars" title="GitHub Stars" src="https://img.shields.io/github/stars/zer0w3b?style=for-the-badge&label=STARS&color=2ebd4f"/>
+  <a href="https://github.com/zer0w3b?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zer0w3b?color=2ebd4f&labelColor=249c3a&style=for-the-badge&logo=star&label=STARS"/>
   </a>
   <a href="https://github.com/zer0w3b">
-    <img alt="Visitors" title="GitHub profile views" src="http://zer0w3b.42web.io/index.php" style="height:28px;"/>
+    <img alt="visitors" title="GitHub profile views" src="http://zer0w3b.42web.io/index.php"/>
   </a>
 </p>
+
 
 ## 👤 About Me  
 - 🕵️‍♂️ Ethical Hacker in the making  
