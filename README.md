@@ -1,6 +1,6 @@
 # Hi, I'm Zer0W3b 👾 
 
-<!-- Background GIF as an image in the README -->
+<!-- Background-like effect by using a GIF as the first image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zer0W3b/Zer0W3b/main/Stars_Twinkle.gif" alt="Stars Twinkle Background" style="width:100%; height:auto;"/>
 </p>
