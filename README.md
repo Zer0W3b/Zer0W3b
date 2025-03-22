@@ -1,35 +1,64 @@
 # Hi, I'm Zer0W3b 👾
 
-### GitHub Stats
-![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white)
-![GitHub stars](https://custom-icon-badges.demolab.com/github/stars/zer0w3b?color=54960C&labelColor=468307&style=for-the-badge&logo=star&label=STARS)
-![GitHub visitors](http://zer0w3b.42web.io/index.php)
+<p align="center">
+  <a href="https://github.com/zer0w3b?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
+  </a>
+  <a href="https://github.com/zer0w3b?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zer0w3b?color=54960C&labelColor=468307&style=for-the-badge&logo=star&label=STARS"/>
+  </a>
+  <a href="https://github.com/zer0w3b">
+    <img alt="visitors" title="GitHub profile views" src="http://zer0w3b.42web.io/index.php"/>
+  </a>
+</p>
 
-## 👤 About Me
-- 🕵️‍♂️ Ethical Hacker in the making
-- 🔐 Cybersecurity enthusiast
-- 🧩 Data broker researcher
-- 💻 Python, Networking, OSINT, Automation
-- 🎯 Focus: learn, exploit, protect, repeat
-- ⚡ Constantly leveling up — stealth mode active
+<details open>
+  
+  <summary><h2>👤 About Me</h2></summary>
+  
+  - 🕵️‍♂️ Ethical Hacker in the making  
+  - 🔐 Cybersecurity enthusiast  
+  - 🧩 Data broker researcher  
+  - 💻 Python, Networking, OSINT, Automation  
+  - 🎯 Focus: learn, exploit, protect, repeat  
+  - ⚡ Constantly leveling up — stealth mode active
+    
+</details>
 
-## 🚀 GitHub Stats
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)
+<details open>
+  <summary><h2>🚀 GitHub Stats</h2></summary>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)  
+  
+</details>
 
-## 🔧 Skills
-- Python
-- JavaScript
-- Linux
-- Docker
-- Kubernetes
-- Git
+<details>
+  
+  <summary><h2>🔧 Skills</h2></summary>
+  
+  - Python  
+  - JavaScript  
+  - Linux  
+  - Docker  
+  - Kubernetes  
+  - Git
+    
+</details>
 
-## 🔥 Featured Projects
-Currently, no projects are being worked on.
+<details>
+  
+  <summary><h2>🔥 Featured Projects</h2></summary>
+  
+  - Currently, no projects are being worked on.
+    
+</details>
 
-## 📫 How to Reach Me
-- Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
+<details>
+  
+  <summary><h2>📫 How to Reach Me</h2></summary>
+  
+  - Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
+    
+</details>
