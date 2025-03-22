@@ -35,21 +35,30 @@
 </details>
 
 <details>
+  
   <summary>🔧 Skills</summary>
+  
   - Python  
   - JavaScript  
   - Linux  
   - Docker  
   - Kubernetes  
   - Git
+    
 </details>
 
 <details>
+  
   <summary>🔥 Featured Projects</summary>
+  
   - Currently, no projects are being worked on.
+    
 </details>
 
 <details>
+  
   <summary>📫 How to Reach Me</summary>
+  
   - Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
+    
 </details>
