@@ -14,7 +14,7 @@
 
 <details open>
   
-  <summary>👤 About Me</summary>
+  <summary><h2>👤 About Me</h2></summary>
   
   - 🕵️‍♂️ Ethical Hacker in the making  
   - 🔐 Cybersecurity enthusiast  
@@ -26,7 +26,7 @@
 </details>
 
 <details open>
-  <summary>🚀 GitHub Stats</summary>
+  <summary><h2>🚀 GitHub Stats</h2></summary>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
@@ -36,7 +36,7 @@
 
 <details>
   
-  <summary>🔧 Skills</summary>
+  <summary><h2>🔧 Skills</h2></summary>
   
   - Python  
   - JavaScript  
@@ -49,7 +49,7 @@
 
 <details>
   
-  <summary>🔥 Featured Projects</summary>
+  <summary><h2>🔥 Featured Projects</h2></summary>
   
   - Currently, no projects are being worked on.
     
@@ -57,7 +57,7 @@
 
 <details>
   
-  <summary>📫 How to Reach Me</summary>
+  <summary><h2>📫 How to Reach Me</h2></summary>
   
   - Email: [zer0w3b@keemail.me](mailto:zer0w3b@keemail.me)
     
