@@ -1,8 +1,5 @@
-<p align="center" style="color:white;">
-  # Hi, I'm Zer0W3b 👾
-</p>
-
-<p style="color:white;">
+# Hi, I'm Zer0W3b 👾 
+<p align="center">
   <a href="https://github.com/zer0w3b?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zer0w3b?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
   </a>
@@ -14,24 +11,20 @@
   </a>
 </p>
 
-<h2 style="color:white;">👤 About Me</h2>
-<ul style="color:white;">
-  <li>🕵️‍♂️ Ethical Hacker in the making</li>
-  <li>🔐 Cybersecurity enthusiast</li>
-  <li>🧩 Data broker researcher</li>
-  <li>💻 Python, Networking, OSINT, Automation</li>
-  <li>🎯 Focus: learn, exploit, protect, repeat</li>
-  <li>⚡ Constantly leveling up — stealth mode active</li>
-</ul>
+## 👤 About Me  
+- 🕵️‍♂️ Ethical Hacker in the making  
+- 🔐 Cybersecurity enthusiast  
+- 🧩 Data broker researcher  
+- 💻 Python, Networking, OSINT, Automation  
+- 🎯 Focus: learn, exploit, protect, repeat  
+- ⚡ Constantly leveling up — stealth mode active  
 
-<h2 style="color:white;">🚀 GitHub Stats</h2>
-<p style="color:white;"> 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)
-</p>
-<p style="color:white;">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)
-</p>
+## 🚀 GitHub Stats  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zer0W3b&theme=graywhite)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zer0W3b&theme=graywhite)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zer0W3b&theme=graywhite)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zer0W3b&theme=graywhite&utcOffset=8)  
 
 ---
-
-> ⚔️ *Learn the system. Break the system.*
+> ⚔️ *Learn the system. Break the system.
